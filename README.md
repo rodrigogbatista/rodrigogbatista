@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodrigogbatista. I'm a senior backend programmer, working at AILog Tecnologia (www.ailog.com.br)
 - 🌱 I’m currently learning docker, vueJS and quasar components
-- 💞️ I’m looking to collaborate on backend projects using java or php
+- 💞️ I’m looking to collaborate on backend projects using java
 
 
 <!---
